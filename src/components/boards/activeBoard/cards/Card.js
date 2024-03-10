@@ -27,7 +27,7 @@ const CardTitle = styled.h3`
 
 const ArchiveTask = styled.div`
     padding: 4px 7px;
-    opacity: 0.4;
+    opacity: 0.5;
     border: none;
     border-radius: 9999;
     cursor: pointer;
